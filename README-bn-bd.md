@@ -2,15 +2,14 @@
 
 # ভূমিকা
 
-The goal of this style guide is to present a set of best practices and style guidelines for one AngularJS application.
-অ্যাঙগুলারজেএস
-These best practices are collected from:
+কোন অ্যাংগুলারজেএস অ্যাপ্লিকেশন এরজন্য বেস্টপ্র্যাক্টিস ও স্টাইল গাইড উপস্থাপনের উদ্দেশ্যে এই গাইডটি তৈরি করা হয়েছে । 
+নিম্নোক্ত স্থান অনুসারে এইসব বেস্ট প্র্যাক্টিস সন্নিবেশিত করা হয়েছে:
 
-0. AngularJS source code
-0. Source code or articles I've read
-0. My own experience
+0. অ্যাংগুলারজেএস সোর্স কোড
+0. বিভিন্ন পঠিত সোর্স কোড ও আর্টিকেল
+0. ব্যক্তিগত অভিজ্ঞতা
 
-**Note 1**: this is still a draft of the style guide, its main goal is to be community-driven so filling the gaps will be greatly appreciated by the whole community.
+**নোট ১**: এটি এখনো একটি খসড়া স্টাইল গাইড, এটার মূল লক্ষ্য হল কম্যুনিটি এর সমন্বিত প্রচেষ্টায় একটি গাইড বানানো, সুতরাং যেকেউ গাইডটি আরো ভালো করতে এবং ফাঁকফোক পূর্ণ কে সাহায্য করলে সকলেই প্রসংশা করবে ।  
 
 **Note 2**: before following any of the guidelines in the translations of the English document, make sure they are up-to date. The latest version of the AngularJS style guide is in the current document.
 
